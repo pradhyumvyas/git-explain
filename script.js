@@ -49,5 +49,4 @@ newArticle2.setAttribute('id', 'art-005');
 newHeading2.textContent = "Article 006";
 newParagraph2.textContent = "006 Added This Paragraph by the JS in this first i declared elements then with the help of textcontent method i added some details the append data of main method and later on i set a attribute id then finally i declared a one constant of the main class of html file add append this article into that article so they added this artile in the last of all article";
 
-
 main.appendChild(newArticle2);
