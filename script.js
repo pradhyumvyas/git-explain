@@ -29,7 +29,7 @@ newParagraph1.textContent = "Added This Paragraph by the JS in this first i decl
 
 
 newArticle1.appendChild(newHeading1);
-newArticle1.appendChild(newParagraph);
+newArticle1.appendChild(newParagraph1);
 
 newArticle1.setAttribute('id', 'art-005');
 newArticle1.classList.add('m-2', 'p-2', 'border', 'border-secondary');
